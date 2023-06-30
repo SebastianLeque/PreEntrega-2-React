@@ -21,10 +21,3 @@ const App = () => {
 }
 
 export default App
-
-/*
-<TituloPrincipal titulo = {"Hola Comisión"} dia = {"martes"} />
-<ItemCount/>
-
-
-*/
